@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nitishtrivedi
-- 👀 I’m interested in Data Science, ML, AI and Cloud Computing
-- 🌱 I’m currently learning AWS, Python
-- 💞️ I’m looking to collaborate on AWS Platform
+- 👀 I’m interested full stack web development, primarily in .NET and JavaScript fullstack.
+- 🌱 I’m currently learning .NET 8, .NET Core and mastering Angular
+- 💞️ I’m looking to collaborate on Azure, AWS and anyhting else related to web development.
 - 📫 How to reach me: nitish_trivedi0194@yahoo.com
 
 <!---
